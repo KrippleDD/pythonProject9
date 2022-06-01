@@ -6,7 +6,7 @@ lst.append(x)
 
 lst = sorted(lst, reverse = True)
 
-a = []
+a = [5, 8, 2, 8, 4, 7, 0, 3, 1, 6, 9]
 
 for i in range(0, len(lst)):
 
